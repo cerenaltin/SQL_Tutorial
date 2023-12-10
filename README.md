@@ -3,7 +3,7 @@
 <br>
 
 
- ![Image](patika.png, width="40")
+ ![Image](patika.png){:width="300px" height="200px"}
 
 <br>
 
