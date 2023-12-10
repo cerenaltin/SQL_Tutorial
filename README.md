@@ -3,7 +3,7 @@
 <br>
 
 
- ![Image](logo.png)
+ ![Image](patika.png)
 
 <br>
 
