@@ -3,7 +3,8 @@
 <br>
 
 
- ![Image](patika.png){:width="300px" height="200px"}
+<img src="patika.png" alt="Resim Açıklaması" width="300" height="200">
+
 
 <br>
 
