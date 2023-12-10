@@ -3,7 +3,7 @@
 <br>
 
 
- ![Image](patika.png)
+ ![Image](patika.png, width="40")
 
 <br>
 
