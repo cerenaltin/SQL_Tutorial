@@ -3,7 +3,7 @@
 <br>
 
 
- ![Image](assets/logo.png)
+ ![Image](logo.png)
 
 <br>
 
@@ -11,6 +11,6 @@
  # SQL Eğitim Patika 
  
 
-> #### Bu repo'da [Patika](https://academy.patika.dev/) SQL eğitiminde yapmış olduğunuz ödevler bulunmaktadır.
+> #### Bu repo'da [Patika](https://academy.patika.dev/) SQL eğitiminde yapmış olduğum ödevler bulunmaktadır.
 
 <br>
