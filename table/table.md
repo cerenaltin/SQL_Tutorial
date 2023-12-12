@@ -27,3 +27,14 @@ CREATE TABLE Employees (     id SERIAL PRIMARY KEY,
 ALTER TABLE <tablo_adı> ALTER COLUMN <sütun_adı>
 SET NOT NULL;
 ```
+- UNIQUE Kullanımı
+```
+CREATE TABLE Employees (     ---
+    emaile VARCHAR(100) UNIQUE,
+    ----
+);
+```
+- ALTER ve UNIQUE
+```
+ALTER TABLE <tablo_adı> ADD UNIQUE <sütun_adı>
+```
