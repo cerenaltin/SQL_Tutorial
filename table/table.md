@@ -38,3 +38,16 @@ CREATE TABLE Employees (     ---
 ```
 ALTER TABLE <tablo_adı> ADD UNIQUE <sütun_adı>
 ```
+- CHECK Kullanımı
+```
+CREATE TABLE Employees (     ---
+    age INTEGER CHECK (age>=18)
+    ----
+);
+```
+- ALTER ve CHECK
+```
+ALTER TABLE <tablo_adı> ADD CHECK (age>=18)
+```
+
+
