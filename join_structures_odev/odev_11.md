@@ -6,8 +6,6 @@ UNION
 (SELECT first_name 
 from actor
 );
-
-
 ```
 - actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
 ```
@@ -17,7 +15,6 @@ INTERSECT
 (SELECT first_name 
 from actor
 );
-
 ```
 - actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
 ```
@@ -27,7 +24,6 @@ EXCEPT
 (SELECT first_name 
 from actor
 );
-
 ```
 - İlk 3 sorguyu tekrar eden veriler için de yapalım.
 ```
@@ -45,7 +41,6 @@ INTERSECT ALL
 (SELECT first_name 
 from actor
 );
-
 ```
 ```
 (select first_name 
